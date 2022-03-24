@@ -1,26 +1,28 @@
-### Hi there 👋
+<div align="center">
+  
+  ## Welcome to my Github profile!
 
-<!--
-**thealexcesar/thealexcesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ### I'm Full Stack Developer.
 
-Here are some ideas to get you started:
+  <div>
+    <a href="https://github.com/thealexcesar">
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealexcesar&?&show_icons=true&theme=dracula&icount_private=true&title_color=c52f24&text_color=fffffc&border_color=293A44&bg_color=2B3D47&layout=compact&card_width=260em&langs_count=10&custom_title=❖&nbsp;Most&nbsp;Used&nbsp;Languages&nbsp;❖">
+   </a>
+  <a href="https://github.com/thealexcesar">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=thealexcesar&show_icons=true&theme=dracula&include_all_reposit&include_all_commits=true&count_private=true&title_color=c52f24&text_color=fffffc&bo rder_color=293A44&bg_color=2B3D47&layout=compact&card_width=200em&langs_count=10"/>
+  </div>
 
-- I’m currently working on Nucleus...
-- ruby I’m currently learning Ruby and Java ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Alex Cesar da Silva
 
+  ### Computer Science student at FURB.
+
+  ___
+
+
+  <div>
+    <a href="https://github.com/thealexcesar">
+      <img src="https://img.shields.io/badge/-gray.svg?logo=github&style=flat-square" alt="GitHub" />
+      <img src="https://komarev.com/ghpvc/?username=thealexcesar&color=lightgray&style=flat-square" alt="thealexcesar" />
+      <img src="https://img.shields.io/github/stars/thealexcesar.svg?label=Total%20Stars&color=lightgray&style=flat-square" alt="Total Stars" />
+    </a>
+  </div>
 <div>
-<a href="https://github.com/thealexcesar">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealexcesar&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thealexcesar&show_icons=true&theme=dracula&include_all_reposit&include_all_commits=true&count_private=true"/>
-</div>
-
-
-### 2. Estudante de Ciência da Computação pela Fundação Universidade Regional de Blumenau (FURB).
