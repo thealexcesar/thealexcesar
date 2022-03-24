@@ -6,11 +6,12 @@
 
   <div>
     <a href="https://github.com/thealexcesar">
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealexcesar&?&show_icons=true&theme=dracula&icount_private=true&title_color=c52f24&text_color=fffffc&border_color=293A44&bg_color=2B3D47&layout=compact&card_width=260em&langs_count=10&custom_title=❖&nbsp;Most&nbsp;Used&nbsp;Languages&nbsp;❖">
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealexcesar&?&show_icons=true&icount_private=true&title_color=c52f24&text_color=fffffc&border_color=999999&bg_color=2B3D47&layout=compact&card_width=260em&langs_count=10&custom_title=❖&nbsp;Most&nbsp;Used&nbsp;Languages&nbsp;❖">
    </a>
-  <a href="https://github.com/thealexcesar">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=thealexcesar&show_icons=true&theme=dracula&include_all_reposit&include_all_commits=true&count_private=true&title_color=c52f24&text_color=fffffc&bo rder_color=293A44&bg_color=2B3D47&layout=compact&card_width=200em&langs_count=10"/>
-  </div>
+   <a href="https://github.com/thealexcesar">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=thealexcesar&show_icons=true&include_all_reposit&include_all_commits=true&count_private=true&title_color=c52f24&text_color=fffffc&bo rder_color=999999&layout=compact&bg_color=2B3D47&layout=compact&card_width=200em"/>
+   </a>
+ </div>
 
 
   ### Computer Science student at FURB.
