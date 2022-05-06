@@ -2,12 +2,8 @@
   
   ## Welcome to my Github profile!
   
-  ### I'm Full Stack Developer.
-  
-  ### Computer Science student at FURB.
+  I'm Full Stack Developer and a Computer Science student at FURB.
   ___
-
-### Knowledge
 <div style="display: inline_block"><br>
   <img align center alt="Git" height="28" src="https://img.shields.io/badge/-fff?style=flat-square&logo=git&logoColor=F1502F">
   <img align center alt="Arch" src="https://img.shields.io/badge/Arch-linux-1793d1?style=for-the-badge&logo=archlinux&logoColor=&Color=1793d1">
