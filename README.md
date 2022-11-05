@@ -1,6 +1,6 @@
 <div align="center">
   
-  ## Welcome to my Github profile!
+  ## Welcome to my profile!
   
   I'm Full Stack Developer and a Computer Science student at FURB.
   ___
