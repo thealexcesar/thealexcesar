@@ -16,7 +16,7 @@
   <img align center alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align center alt="JavaScript"  src="https://img.shields.io/badge/JQuery-0769ad?style=for-the-badge&logo=jquery&logoColor=#0769ad">
   <img align center alt="Ruby" src="https://img.shields.io/badge/Ruby-9b111e?style=for-the-badge&logo=ruby&logoColor=white">
-  <img align center alt="RoR" height="28" src="https://img.shields.io/badge/-white?style=flat-square&logo=ruby-on-rails&logoColor=cc0000&border:2px%20solid%20red">
+  <img align center alt="RoR" height="28" src="https://img.shields.io/badge/Ruby_on_Rails-v6.1.3.2-cc0000?style=flat-square&logo=ruby-on-rails&logoColor=white">
   <img align center alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff">
   <img align center alt="Java" src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=f89820fff&Color=">
   <img align center alt="Python" src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B">
