@@ -21,5 +21,8 @@
   <img align center alt="Java" src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=f89820fff&Color=">
   <img align center alt="Python" src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B">
   <img align center alt="Python" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-  
+   <div>
+   <a href="https://github.com/alinelenzi">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealexcesar&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 <div>
