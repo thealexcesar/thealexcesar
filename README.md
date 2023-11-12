@@ -3,6 +3,7 @@
   ## Welcome to my profile!
   
   <a href="alexcesar.dev">Portfolio</a>
+
   I'm Full Stack Developer and a Computer Engineering student at UNINTER.
   ___
 <div style="display: inline_block"><br>
