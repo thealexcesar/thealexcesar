@@ -2,7 +2,7 @@
   
   ## Welcome to my profile!
   
-  <a href="https://alexcesar.dev">Portfolio</a> - <a href="https://www.linkedin.com/in/thealexcesar">Linkedin</a>
+  <a href="https://alexcesar.dev" target="_blank">Portfolio</a> - <a href="https://www.linkedin.com/in/thealexcesar" target="_blank">Linkedin</a>
 
   I'm Full Stack Developer and a Computer Engineering student at UNINTER.
   ___
