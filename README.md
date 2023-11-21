@@ -2,8 +2,10 @@
   
   ## Welcome to my profile!
   
-  <a href="https://alexcesar.dev" target="_blank">Portfolio</a> - <a href="https://www.linkedin.com/in/thealexcesar" target="_blank">Linkedin</a>
-
+  <a href="https://alexcesar.dev" target="_blank">Portfolio</a> -
+  <a href="https://www.linkedin.com/in/thealexcesar" target="_blank">Linkedin</a> -
+  <a href="https://gitlab.com/thealexcesar" target="_blank">Gitlab</a>
+  
   I'm Full Stack Developer and a Computer Engineering student at UNINTER.
   ___
 <div style="display: inline_block"><br>
