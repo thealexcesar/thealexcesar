@@ -19,7 +19,7 @@
   <img align center alt="Docker" height="28" src="https://img.shields.io/badge/Docker-F1502F?style=flat-square&logo=docker&color=384d54">
   <img align center alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
    <div>
-   <a href="https://github.com/alinelenzi">
-   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealexcesar&layout=compact&langs_count=8&theme=tokyonight"/>
+   <a href="https://github.com/thealexcesar">
+   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealexcesar&layout=compact&langs_count=14&theme=tokyonight"/>
 </div>
 <div>
