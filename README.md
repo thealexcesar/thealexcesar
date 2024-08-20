@@ -19,8 +19,7 @@
   <img align center alt="MongoDB" height=28 src="https://img.shields.io/badge/mongo-db">
   <img align center alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img align center alt="Docker" height="28" src="https://img.shields.io/badge/Docker-F1502F?style=flat-square&logo=docker&color=384d54">
-   <div>
-   <a href="https://github.com/thealexcesar">
-   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealexcesar&layout=compact&langs_count=14&theme=tokyonight"/>
-</div>
+  
+   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thealexcesar&layout=compact&langs_count=14&theme=tokyonight)
+ 
 <div>
