@@ -14,7 +14,6 @@
     <img align="center" alt="Spring Boot" height="28" src="https://img.shields.io/badge/spring-boot?style=flat-square&logo=spring-boot">
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt="Angular" height="28" src="https://img.shields.io/badge/angular-red">
-    <img align="center" alt="JQuery" src="https://img.shields.io/badge/JQuery-0769ad?style=for-the-badge&logo=jquery&logoColor=#0769ad">
     <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff">
     <img align="center" alt="MongoDB" height="28" src="https://img.shields.io/badge/mongo-db">
     <img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
