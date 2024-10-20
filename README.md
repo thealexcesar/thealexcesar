@@ -2,7 +2,8 @@
   
   ## Welcome to my profile!
   
-  <a href="https://www.linkedin.com/in/thealexcesar" target="_blank">Linkedin</a> -
+  <a href="https://www.linkedin.com/in/thealexcesar" target="_blank">Linkedin</a> - 
+  <a href="https://github.com/thealexcesar/portfolio" target="_blank">Portfolio</a> -
   <a href="https://gitlab.com/thealexcesar" target="_blank">Gitlab</a>
   
   Hey there! I'm a full stack developer always looking for new technologies and challenges. In my free time, I enjoy playing biking, and reading. Let’s connect!
